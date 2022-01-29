@@ -6,7 +6,7 @@
 
 2. Please follow the instruction to install xcode or android studio ([here](https://reactnative.dev/docs/environment-setup))
 
-3. Once setup completed go to ios directory and run `$ pod install`
+3. Once setup completed and CocoaPods installed then go to ios directory and run `$ pod install`
 
 4. Make sure physical device (Mobile device (Android or iPhone)) is connected with the system, Because QR code scanner and Native SMS service will not work on iOS Simulator and Android Emulator.
 
